@@ -1,0 +1,3 @@
+[submodule "SerialSensor"]
+	path = SerialSensor
+	url = https://github.com/MIT-CityFARM/SerialSensor.git

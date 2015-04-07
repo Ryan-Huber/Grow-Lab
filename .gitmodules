@@ -1,6 +1,6 @@
-[submodule "pysensor"]
-	path = pysensor
-	url = https://github.com/MIT-CityFARM/pysensor.git
 [submodule "sensor-reader"]
 	path = sensor-reader
 	url = https://github.com/MIT-CityFARM/sensor-reader.git
+[submodule "pysensorlib"]
+	path = pysensorlib
+	url = https://github.com/MIT-CityFARM/pysensorlib.git
